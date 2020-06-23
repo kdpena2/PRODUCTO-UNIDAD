@@ -58,6 +58,8 @@
 ***HARDWARE***
 
 **HARDWARE RASPBERRY**
+
+
 ***INSERTE IMAGEN AQUI***
 
 <p><li> Sistema en un chip: Broadcom BCM2711 con arquitectura de 64 bits.</li></p>
@@ -70,8 +72,16 @@
 <p><li> Alimentación: Vía USB tipo C con 5V y 3A; vía PoE con HAT podremos alimentarlo a través del estándar PoE con un cable de red, proporcionándole alimentación vía switch PoE o inyector PoE; vía GPIO con mínimo 3A.</li></p>
 <p><li> Expansión: Cabezal GPIO de 40 pines compatibles con otras Raspberry Pi.</li></p>
 <p><li> Tarjetas micro SD: Soporta micro SD para el sistema operativo y también para almacenamiento de datos.</li></p>
-
-
+<p>Además dispone de un bus PCIe que se encarga de interconectar los puertos USB, tanto los dos puertos USB 2.0 como los dos puertos USB 3.0, y lo hace a una velocidad máxima combinada de 4Gbps. </p>
+<p>La característica de las Raspberry que más destaca, es su apariencia desnuda. Para completarlo se necesitará una fuente de alimentación, un monitor o un televisor, cables para conectarse al monitor (normalmente un cable micro HDMI), un ratón y un teclado. Lo cual permite crear una máquina propia.</p>
+*Los pines GPIO (General Purpose Input Output):* 
+<p>Estos pines son digitales, lo que significa que sólo pueden tener dos estados, apagado o encendido. Pueden tener una dirección para recibir o enviar corriente (entrada, salida
+respectivamente) y todo esto es totalmente controlable por lenguajes de programación
+como Python, JavaScript, node-RED y otros. Los pines trabajan con una tensión de 3,3 V y un consumo máximo de corriente de 16 mA. Esto significa que podemos suministrar energía de forma segura desde un solo pin GPIO a través de una resistencia y uno o dos LEDs. 
+Para controlar GPIO con Python, lo primero es importar una librería de código escrito previamente. El más común y difundido es el RPi.GPIO, utilizado para crear miles de proyectos desde los primeros días de la Raspberry Pi.</p>
+<p>En cuanto a la nomenclatura de los pines GPIO, existen dos maneras de identificarlos; el método más simple es definitivamente el que se refiere a su ubicación física (BOARD). Empezando por la parte superior izquierda del GPIO, tenemos el pin físico 1 que proporciona alimentación 3v3. A la derecha de ese pin se encuentra el pin físico de 2 que proporciona 5v de potencia. El número de pines seguirá creciendo a medida que se descienda por las columnas. A la izquierda se encontrarán todos los pines con números impares y a la derecha los pares. </p>
+<p>Existe otro método utilizado, y es la numeración de pines de Broadcom (BCM), el cual se refiere a los alfileres GPIO que están conectados directamente al SoC del Raspberry Pi. Básicamente son conexiones directas al cerebro de nuestra Pi para conectar sensores y
+componentes para usar en nuestros diseños. </p>
 
 
 

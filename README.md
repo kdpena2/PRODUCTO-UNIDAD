@@ -146,7 +146,7 @@ Sensor de Luz. Los LEDs también tiene la posibilidad de ser usados como sensor 
 
 ***Hardware Arduino***
 
-****Inserte imagen aqui****
+![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/C.PNG)
 
  **1)Botón de reset**
 <p>Sirve para inicializar nuevamente el programa cargado en el microcontrolador de la placa. Cuando deje de responder el Arduino Uno es el botón de encendido o apagado para que vuelva a restablecerse.</p>
@@ -199,9 +199,9 @@ Sensor de Luz. Los LEDs también tiene la posibilidad de ser usados como sensor 
 **GND:**
 <p>Pines de tierra.</p>
 
-****Inserte imagen aqui****
+![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/D.PNG)
 
-****Inserte imagen aqui****
+![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/E.PNG)
 
 
 <p>Cada uno de los 14 pines digitales de la Uno puede utilizarse como entrada o salida, utilizando las funciones pinMode(), digitalWrite() y digitalRead(). Funcionan a 5 voltios. Cada clavija puede proporcionar o recibir un máximo de 40 mA y tiene una resistencia pull-up interna (desconectada por defecto) de 20-50 kOhms. Además, algunos pines tienen funciones especializadas:</p>

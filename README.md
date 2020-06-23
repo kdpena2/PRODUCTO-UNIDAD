@@ -83,6 +83,9 @@ Para controlar GPIO con Python, lo primero es importar una librería de código 
 <p>Existe otro método utilizado, y es la numeración de pines de Broadcom (BCM), el cual se refiere a los alfileres GPIO que están conectados directamente al SoC del Raspberry Pi. Básicamente son conexiones directas al cerebro de nuestra Pi para conectar sensores y
 componentes para usar en nuestros diseños. </p>
 
+***INSERTE IMAGEN AQUI***
+
+
 
 
 

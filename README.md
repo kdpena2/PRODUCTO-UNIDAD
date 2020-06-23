@@ -69,8 +69,7 @@
 
 ***Hardware Raspberry Pi***
 
-
-****INSERTE IMAGEN AQUI****
+![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/A.PNG)
 
 <p><li> Sistema en un chip: Broadcom BCM2711 con arquitectura de 64 bits.</li></p>
 <p><li> CPU: Cuenta con un procesador de cuatro núcleos a 1,5 GHz con brazo Cortex-A72.</li></p>
@@ -94,7 +93,7 @@ Para controlar GPIO con Python, lo primero es importar una librería de código 
 <p>Existe otro método utilizado, y es la numeración de pines de Broadcom (BCM), el cual se refiere a los alfileres GPIO que están conectados directamente al SoC del Raspberry Pi. Básicamente son conexiones directas al cerebro de nuestra Pi para conectar sensores y
 componentes para usar en nuestros diseños. </p>
 
-****INSERTE IMAGEN AQUI****
+![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/B.PNG)
 
 ***Hardware Micro bit***
 <p>La placa Micro:bit. Esta placa fue desarrollada bajo el amparo de la BBC con el objetivo de ser regalada a los niños y niñas de Gran Bretaña como punto de partida para su aprendizaje tecnológico. </p>

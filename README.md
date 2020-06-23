@@ -553,8 +553,11 @@ Lo primero que debemos hacer para el control de los pines de la tarjeta con el l
 ****RECOMENDACIONES****
 <p>Tener conocimientos básicos de electrónica y electricidad para las conexiones residenciales, es importante para la manipulación correcta de los componentes del mismo modo tener conocimientos de programación en lenguaje javascript y python es esencial para el desarrollo de la lógica de encendido y apagado de las luces y del mismo modo de los programas a ejecutar  que interpretaran las placas Arduino,Raspberry y MicroBit. del mismo modo verificar el voltaje y amperaje con el cual pondremos a funcionar nuestras placas debido a que es muy común que los integrados se quemen o dañen superados los 5 voltios. </p>
 ****CRONOGRAMA****
+
 ![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/Y.PNG)
+
 ![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/Z.PNG)
+
 ****BIBLIOGRAFÍA****
 <p>Monk, S. (2016). Raspberry Pi cookbook: Software and hardware problems and solutions. " O'Reilly Media, Inc.".</p>
 <p>Ferko,(2017) Manual de Javascript :bytehost31</p>

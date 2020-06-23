@@ -47,6 +47,7 @@
 </p>El manual de la tarjeta de desarrollo Microbit nos permite visualizar claramente todos los elementos estudiados en la investigación desarrollada, elementos como su hardware y software son especificados en este manual e incluso varios proyectos de guía que servirán al usuario para comprender claramente la funcionalidad de esta tarjeta de desarrollo.</p>
 
 ****MARCO TEÓRICO****
+
 ***¿Qué es Raspberry Pi?***
 <p>Es un ordenador del tamaño de una tarjeta de crédito de bajo coste y tamaño reducido, creada con el objetivo de estimular la enseñanza de la informática en las escuelas, aunque no empezó su comercialización hasta el año 2012.</p>
 <p>Consta de una placa base sobre la que se monta un procesador, un chip gráfico y memoria RAM. Esta placa que soporta varios componentes necesarios en un ordenador común y es capaz de comportarse como tal.</p>
@@ -64,9 +65,9 @@
 **Arduino uno**
 <p>Arduino Uno es una placa electrónica basada en el microcontrolador ATmega328. Cuenta con 14 entradas/salidas digitales, de las cuales 6 se pueden utilizar como salidas PWM (Modulación por ancho de pulsos) y otras 6 son entradas analógicas. Además, incluye un resonador cerámico de 16 MHz, un conector USB, un conector de alimentación, una cabecera ICSP y un botón de reseteo. La placa incluye todo lo necesario para que el microcontrolador haga su trabajo, basta conectarla a un ordenador con un cable USB o a la corriente eléctrica a través de un transformador.</p>
 
-****HARDWARE****
+****COMPONENTES DEL HARDWARE****
 
-***HARDWARE RASPBERRY***
+***Hardware Raspberry Pi***
 
 
 ****INSERTE IMAGEN AQUI****
@@ -83,7 +84,8 @@
 <p><li> Tarjetas micro SD: Soporta micro SD para el sistema operativo y también para almacenamiento de datos.</li></p>
 <p>Además dispone de un bus PCIe que se encarga de interconectar los puertos USB, tanto los dos puertos USB 2.0 como los dos puertos USB 3.0, y lo hace a una velocidad máxima combinada de 4Gbps. </p>
 <p>La característica de las Raspberry que más destaca, es su apariencia desnuda. Para completarlo se necesitará una fuente de alimentación, un monitor o un televisor, cables para conectarse al monitor (normalmente un cable micro HDMI), un ratón y un teclado. Lo cual permite crear una máquina propia.</p>
-*Los pines GPIO (General Purpose Input Output):* 
+
+**Los pines GPIO (General Purpose Input Output):**
 <p>Estos pines son digitales, lo que significa que sólo pueden tener dos estados, apagado o encendido. Pueden tener una dirección para recibir o enviar corriente (entrada, salida
 respectivamente) y todo esto es totalmente controlable por lenguajes de programación
 como Python, JavaScript, node-RED y otros. Los pines trabajan con una tensión de 3,3 V y un consumo máximo de corriente de 16 mA. Esto significa que podemos suministrar energía de forma segura desde un solo pin GPIO a través de una resistencia y uno o dos LEDs. 
@@ -94,7 +96,7 @@ componentes para usar en nuestros diseños. </p>
 
 ****INSERTE IMAGEN AQUI****
 
-***HARDWARE MICROBIT***
+***Hardware Micro bit***
 <p>La placa Micro:bit. Esta placa fue desarrollada bajo el amparo de la BBC con el objetivo de ser regalada a los niños y niñas de Gran Bretaña como punto de partida para su aprendizaje tecnológico. </p>
 
 ***INSERTE IMAGEN AQUI***
@@ -143,9 +145,7 @@ Sensor de Luz. Los LEDs también tiene la posibilidad de ser usados como sensor 
 
 <p>Existen placas de expansión, kits para montar robots, e incluso accesorios para que puedas hacer aún más cosas con esta placa.</p>
 
-***HARDWARE ARDUINO***
-
-***COMPONENTES DEL ARDUINO***
+***Hardware Arduino***
 
 ****Inserte imagen aqui****
 
@@ -161,14 +161,14 @@ Sensor de Luz. Los LEDs también tiene la posibilidad de ser usados como sensor 
 **4)Chip de interfaz USB:**
 <p>es el encargado de controlar la comunicación con el puerto USB.</p> 
 
-**5)Reloj oscilador:* *
+**5)Reloj oscilador:**
 <p>Es el elemento que hace que el Arduino vaya ejecutando las instrucciones. Es el encargado de marcar el ritmo al cual se debe ejecutar cada instrucción del programa.</p> 
 
 **6)Led de encendido:**
 <p>Es un pequeño LED que se ilumina cuando la placa está correctamente alimentada. </p>
 
 **8)Microcontrolador:**
- <p>Este es el cerebro de cualquier placa Arduino. Es el procesador que se encarga de ejecutar las instrucciones de los programas</p>. 
+ <p>Este es el cerebro de cualquier placa Arduino. Es el procesador que se encarga de ejecutar las instrucciones de los programas.</p>
 
 **9)Regulador de tensión:**
 <p>Este sirve para controlar la cantidad de electricidad que se envía a los pines, con lo que asegura que no se estropee lo que conectemos a dichos pines. </p>
@@ -177,10 +177,10 @@ Sensor de Luz. Los LEDs también tiene la posibilidad de ser usados como sensor 
 <p>Este puerto es el que se usa para darle electricidad a la placa si no se usa alimentación USB.</p> 
 
 **11)Zócalo de tensión:**
-<p>Aquí estarán los pines con los que alimentaremos nuestro circuito. Entradas analógicas</p>.
+<p>Aquí estarán los pines con los que alimentaremos nuestro circuito. Entradas analógicas.</p>
  
  **12) Zócalo:**
-<p> Con distintos pines de entrada analógica que permiten leer entradas analógicas</p>.
+<p> Con distintos pines de entrada analógica que permiten leer entradas analógicas.</p>
 
 **Potencia¨**
 

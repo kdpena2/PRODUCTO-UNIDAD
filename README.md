@@ -296,7 +296,7 @@ Sensor de Luz. Los LEDs también tiene la posibilidad de ser usados como sensor 
 
 <p>En este diagrama de flujo tenemos una declaración de la variable MANO la cual a de usarse si la tarjeta MICROBIT es agitada si es así creará un número al azar el cual se someterá a 3 comparaciones que imprimirán en la matriz de leds de la tarjeta una tijera, piedra o papel dependiendo de si el valor es 1,2 o 3 respectivamente</p>
 
-https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/J.PNG
+![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/J.PNG)
 
 ****LISTA DE COMPONENTES****
 <p>Estos son los recursos que se han utilizado a lo largo del desarrollo del trabajo de investigación.</p>
@@ -305,6 +305,7 @@ https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/J.PNG
 
 ****MAPA DE VARIABLES****
 <p>Variables aplicaciones Raspberry</p>
+
 ![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/L.PNG)
 
 <p>Variables programas Microbit</p>
@@ -463,6 +464,7 @@ Lo primero que debemos hacer para el control de los pines de la tarjeta con el l
       <p>GPIO.output(pin, GPIO.HIGH)</p>
       <p>time.sleep(0.1)</p>
     <p>GPIO.cleanup()</p>
+    
 ![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/Q.PNG)
 
 **Programa “Días de la semana”:**

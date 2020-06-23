@@ -47,6 +47,7 @@
 <p>La micro:BIT es una pequeña tarjeta programable, con un costo asequible a cualquier bolsillo (unos 19€, ojo el cable va aparte). Aun cuando su tamaño es muy reducido, incorpora gran cantidad de sensores y actuadores lo que unido a que usa un software Open Source, hacen de la micro:BIT una plataforma ideal para introducirse en el mundo de la programación de robots.</p>
 
 <p>BBC micro: bit está diseñado para traer de vuelta los días de aprender a escribir su propio código en un plataforma de bajo costo y fácil de entender. Diseñado para sentarse en el corazón de un internacional programa de alfabetización informática inspirado directamente en la alfabetización informática original de la BBC Project, el BBC micro: bit es un microcontrolador asequible en el que puede ejecutar su propio programas para hacer todo, desde deletrear su nombre o jugar un juego para encender y apagar las luces o comunicarse por radio. Las escuelas de todo el mundo han comenzado a adoptar la BBC micro: bit en sus planes de estudio, pero es por no significa exclusivamente para uso educativo estructurado. La naturaleza fácilmente accesible del dispositivo. significa que puede usarse para enseñar conceptos de programación y computación a niños de cualquier edad, su robustez y su pequeño tamaño significan que es extremadamente portátil y adecuado para usar proyectos, y su sorprendente poder y flexibilidad significan que es poco probable que te encuentres a ti mismo restringido por sus capacidades incluso cuando se usa en el corazón de proyectos más complejos.</p>
+
 **¿Qué es Arduino?**
 
 <p>Es una plataforma de desarrollo que se basa  en una placa electrónica de hardware, una placa electrónica es una PCB “Printed Circuit Board” que en español  significa “Placa de Circuito Impreso” . Las PCBs  son superficies planas las cuales son  fabricadas de un material no conductor,está  está formada de varias  capas de material conductor. Una PCB constituye  la manera  más compacta y estable de construir un circuito electrónico.</p>
@@ -54,17 +55,24 @@
 *Arduino uno*
 <p>Arduino Uno es una placa electrónica basada en el microcontrolador ATmega328. Cuenta con 14 entradas/salidas digitales, de las cuales 6 se pueden utilizar como salidas PWM (Modulación por ancho de pulsos) y otras 6 son entradas analógicas. Además, incluye un resonador cerámico de 16 MHz, un conector USB, un conector de alimentación, una cabecera ICSP y un botón de reseteo. La placa incluye todo lo necesario para que el microcontrolador haga su trabajo, basta conectarla a un ordenador con un cable USB o a la corriente eléctrica a través de un transformador.</p>
 
+***HARDWARE***
+
+**HARDWARE RASPBERRY**
+***INSERTE IMAGEN AQUI***
+
+<p><li> Sistema en un chip: Broadcom BCM2711 con arquitectura de 64 bits.</li></p>
+<p><li> CPU: Cuenta con un procesador de cuatro núcleos a 1,5 GHz con brazo Cortex-A72.</li></p>
+<p><li> GPU: VideoCore VI  (con soporte para OpenGL ES 3.x)</li></p>
+<p><li> Memoria: Memoria de  1, 2 o  4 GB  de RAM LPDDR4 a una velocidad de 2.400MHz.</li></p>
+<p><li> Conectividad: Wi-Fi 802.11b/g/n/ac (2.4GHz y 5GHz), Bluetooth 5.0 con BLE (low energy), puerto Gigabit Ethernet ( el cual es nativo y dedicado, por lo que conseguiremos velocidades de más de 900Mbps reales en la red local), 2 puertos USB 3.0 y 2 puertos USB 2.0.</li></p>
+<p><li> Video y sonido: cuenta con 2 puertos micro-HDMI que admiten pantallas de 4K 60Hz a través de HDMI 2.0, puerto de pantalla MIPI DSI, puerto de cámara MIPI CSI, salida estéreo de 4 polos y puerto de vídeo compuesto. Es la primera Raspberry Pi que admite dos pantallas a la vez.</li></p>
+<p><li> Puertos: GPIO 40 pines 2 x micro HDMI 2 x USB 2.0 2 x USB 3.0 CSI (cámara Raspberry Pi) DSI (pantalla tactil) Micro SD Conector de audio jack USB-C (alimentación).</li></p>
+<p><li> Alimentación: Vía USB tipo C con 5V y 3A; vía PoE con HAT podremos alimentarlo a través del estándar PoE con un cable de red, proporcionándole alimentación vía switch PoE o inyector PoE; vía GPIO con mínimo 3A.</li></p>
+<p><li> Expansión: Cabezal GPIO de 40 pines compatibles con otras Raspberry Pi.</li></p>
+<p><li> Tarjetas micro SD: Soporta micro SD para el sistema operativo y también para almacenamiento de datos.</li></p>
 
 
 
-
-
-
-
-
-**ARDUINO**
-**¿Qué es Arduino?**
-<p>Arduino es una plataforma de desarrollo basada en una placa electrónica de hardware, una placa electrónica es una PCB (“Printed Circuit Board”, “Placa de Circuito Impreso” en español). Las PCBs superficies planas fabricadas en un material no conductor, la cual consta de distintas capas de material conductor. Una PCB es la forma más compacta y estable de construir un circuito electrónico.</p>
 
 
 

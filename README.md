@@ -3,7 +3,7 @@
 
 
 
-***OBJETIVO GENERAL:***
+****OBJETIVO GENERAL:****
 <p>Investigar los usos y estructuras principales de las tarjetas de desarrollo Raspberry Pi, Arduino y Micro Bit  por medio de la abstracción de información, para así poder conocer los componentes físicos que estos tienen, y el software que emplean.</p>
 
 ***OBJETIVOS ESPECÍFICOS***
@@ -83,7 +83,7 @@ Para controlar GPIO con Python, lo primero es importar una librería de código 
 <p>Existe otro método utilizado, y es la numeración de pines de Broadcom (BCM), el cual se refiere a los alfileres GPIO que están conectados directamente al SoC del Raspberry Pi. Básicamente son conexiones directas al cerebro de nuestra Pi para conectar sensores y
 componentes para usar en nuestros diseños. </p>
 
-***INSERTE IMAGEN AQUI***
+****INSERTE IMAGEN AQUI****
 
 **HARDWARE MICROBIT**
 <p>La placa Micro:bit. Esta placa fue desarrollada bajo el amparo de la BBC con el objetivo de ser regalada a los niños y niñas de Gran Bretaña como punto de partida para su aprendizaje tecnológico. </p>

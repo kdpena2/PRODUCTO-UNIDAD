@@ -98,7 +98,7 @@ componentes para usar en nuestros diseños. </p>
 ***Hardware Micro bit***
 <p>La placa Micro:bit. Esta placa fue desarrollada bajo el amparo de la BBC con el objetivo de ser regalada a los niños y niñas de Gran Bretaña como punto de partida para su aprendizaje tecnológico. </p>
 
-***INSERTE IMAGEN AQUI***
+![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/C.PNG)
 
 <p>En tan solo 4×5 cm2 podemos encontrar:</p>
 
@@ -146,7 +146,7 @@ Sensor de Luz. Los LEDs también tiene la posibilidad de ser usados como sensor 
 
 ***Hardware Arduino***
 
-![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/C.PNG)
+![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/D.PNG)
 
  **1)Botón de reset**
 <p>Sirve para inicializar nuevamente el programa cargado en el microcontrolador de la placa. Cuando deje de responder el Arduino Uno es el botón de encendido o apagado para que vuelva a restablecerse.</p>
@@ -199,10 +199,10 @@ Sensor de Luz. Los LEDs también tiene la posibilidad de ser usados como sensor 
 **GND:**
 <p>Pines de tierra.</p>
 
-![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/D.PNG)
-
 ![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/E.PNG)
+***Entrada y salida, Input and Output***
 
+![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/F.PNG)
 
 <p>Cada uno de los 14 pines digitales de la Uno puede utilizarse como entrada o salida, utilizando las funciones pinMode(), digitalWrite() y digitalRead(). Funcionan a 5 voltios. Cada clavija puede proporcionar o recibir un máximo de 40 mA y tiene una resistencia pull-up interna (desconectada por defecto) de 20-50 kOhms. Además, algunos pines tienen funciones especializadas:</p>
 
@@ -241,7 +241,7 @@ Sensor de Luz. Los LEDs también tiene la posibilidad de ser usados como sensor 
 <p>La pataforma Create.withcode.uk, es una herramienta gratuita donde se permite escribir, ejecutar, depurar y compartir programas de Python en el navegador web.</p>
 <p>Su ventaja es que no se necesita descargar ni instalar ningún archivo, es así que los programas de Python no pueden acceder a los archivos o dañar la computadora, por lo que es una forma segura de aprender a crear con código.</p>
 
-****Insete imagen****
+![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/G.PNG)
 
 <p>En esta parte se puede  editar el código, y se lo ejecuta dando clic en la flecha que se encuentra al lado derecho.</p>
 <p>En el caso de usar código compatible con la Raspberry, nos mostrará los pines de esta pudiéndose usar como simulador.</p>
@@ -285,38 +285,35 @@ Sensor de Luz. Los LEDs también tiene la posibilidad de ser usados como sensor 
 <p>A continuación, tenemos una estructura condicional en la que si la variable luces y motor están encendidos o en 1 al mismo tiempo, se prenderá nuestro pin ya antes mencionado durante 0.3 segundos 10 veces, mostrando nuestra alarma encendida; esto ocurrirá de igual manera si la variable puerta y motor están en 1 al mismo tiempo.</p>
 <p>Pero si no se cumple ninguna de las dos condiciones se encenderá el led durante 0.1 segundo durante solamente tres veces y nos aparecerá el mensaje de alarma apagada.</p>
 
-****INSRTE IMAGEN****
+![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/H.PNG)
 
 ***Diagrama de flujo de Programa “TECLADO DE SEGURIDAD”***
 <p>Este diagrama explica el funcionamiento del programa,el que inicia con una declaración de variables,posterior solicitud de datos al usuario;mismos que serán almacenados y comparados con una variable ya definida dentro del programa .Finalmente si la condición es verdadera o falsa el LED establecido como salida se prenderá en dos diferentes tonos </p>.  
 
-****INSRTE IMAGEN****
+![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/I.PNG)
 
 ***Diagrama de flujo de programa “Piedra papel o tijera”***
 
 <p>En este diagrama de flujo tenemos una declaración de la variable MANO la cual a de usarse si la tarjeta MICROBIT es agitada si es así creará un número al azar el cual se someterá a 3 comparaciones que imprimirán en la matriz de leds de la tarjeta una tijera, piedra o papel dependiendo de si el valor es 1,2 o 3 respectivamente</p>
 
-****INSRTE IMAGEN****
+https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/J.PNG
 
 ****LISTA DE COMPONENTES****
 <p>Estos son los recursos que se han utilizado a lo largo del desarrollo del trabajo de investigación.</p>
 
-
-****INSRTE IMAGEN****
+![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/K.PNG)
 
 ****MAPA DE VARIABLES****
 <p>Variables aplicaciones Raspberry</p>
+![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/L.PNG)
 
-****INSRTE IMAGEN****
-
- 
 <p>Variables programas Microbit</p>
 
-****INSRTE IMAGEN****
+![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/M.PNG)
 
 <p>Variables programas Arduino</p>
 
-****INSRTE IMAGEN****
+![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/N.PNG)
 
 ****EXPLICACIÓN DE CÓDIGO FUENTE****
 
@@ -364,7 +361,7 @@ Sensor de Luz. Los LEDs también tiene la posibilidad de ser usados como sensor 
     <p>  Serial.println("RED");</p>
    <p> }</p>
 
-****INSRTE IMAGEN****
+![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/O.PNG)
 
 ***Programa “‘OPERACIONES TECLADO”***
 <p>El siguiente programa al igual que el primero usa un teclado por lo que se llamará a la misma librería ,sin embargo,en adición a esta estamos ocupando una pantalla LCD por lo que llamaremos a las librería #include <LiquidCrystal.h> y declaramos las variables  que nos permitirán usar tanto el teclado como la pantalla :</p>
@@ -412,8 +409,7 @@ columnas);</p>
          <p>registro[orden[x]]=0; }</p>
 <p>Finalmente se imprimen los datos en la pantalla LCD</p>
 
-
-****INSRTE IMAGEN****
+![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/P.PNG)
 
 ***RASPBERRY***
 
@@ -467,7 +463,7 @@ Lo primero que debemos hacer para el control de los pines de la tarjeta con el l
       <p>GPIO.output(pin, GPIO.HIGH)</p>
       <p>time.sleep(0.1)</p>
     <p>GPIO.cleanup()</p>
-****INSERTE IMAGEN****
+![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/Q.PNG)
 
 **Programa “Días de la semana”:**
 <p>importamos las bibliotecas  ya antes mencionadas de igual manera</p>
@@ -500,7 +496,7 @@ Lo primero que debemos hacer para el control de los pines de la tarjeta con el l
 <p>else:</p>
     <p>print(" Solo puede escribir los dias de la semana")</p>
     
-****INSETE IMAGEN****
+![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/R.PNG)
 
 ***MICRO BIT***
 
@@ -509,30 +505,30 @@ Lo primero que debemos hacer para el control de los pines de la tarjeta con el l
 <p>Para la realización de este programa contamos con una estructura de codificación en bloques la cual cuenta con una interfaz bastante agradable al usuario.</p>
 <p>En primer lugar determinamos en qué condiciones las acciones se van a desarrollar para lo cual generamos un bloque con la condición que si se agita este se va a ejecutar la creación de una variable llamada “Mano” la cual va a tomar un valo al azar entre el 1 y el 3 mediante la función randint(1, 3)</p>
 
-****INSERTE IMAGEN****
+![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/S.PNG)
 
 <p>a partir de esto crearemos tres condiciones una anidada a otra la cual  tomará las acciones de falso de la anterior mediante la condición if else y por último a partmos de este número aleatoria mediante la función basic.showLeds mostraremos en la matriz de leds integrada en nuestra placa microbit los leds que deseemos ordenándolos a nuestro gusto </p>
 
-
-****INSERTE IMAGEN****
+![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/T.PNG)
 
 **Programa “luciérnagas”**
 <p>Para la creación de este programa primero inicializamos nuestras variables </p>
 
-****INSERTE IMAGEN****
+![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/U.PNG)
 
 <p>consecutivo a esto mediante la función radio.onReceivedString </p><p>establecemos los valores a compartir entre microbit</p>
 
-****INSERTE IMAGEN****
+![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/V.PNG)
+
 <p>Establecemos un bucle el cual itere la condición de que si el reloj es mayor a la variable de mediodía esta aumentará en uno los valores de las variables que se podrán visualizar dentro de la matriz</p>
 
-****INSERTE IMAGEN****
+![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/W.PNG)
 
 <p>con una pausa entre ellos de milisegundos para que sea perceptible el cambio al ojo humano, esto replicara el titilar de una luciérnaga pasado el mediodía.</p>
  
 ****DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN****
 
-****INSERTE IMAGEN****
+![](https://github.com/kdpena2/PRODUCTO-UNIDAD/blob/master/IMG/X.PNG)
 
 ****APORTACIONES****
 <p>Semejanzas y diferencias entre Raspberry , Arduino y Micro bit:</p>

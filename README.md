@@ -1,5 +1,9 @@
 # PRODUCTO-UNIDAD1
 ***PLACAS RASPBERRY, MICROBIT Y ARDUINO***
+ <p><li> Identificar documentos recientes que tengan información acerca las tarjetas de desarrollo Raspberry Pi, Arduino y Micro Bit, para de esta manera conocer el objeto a investigar y las distintas aplicaciones en las que se encuentran. </li></p> 
+<p><li> Comprender los usos y funcionalidades de las tarjetas. </li></p> 
+<p><li>Desarrollar ejemplos básicos donde se evidencie el  funcionamiento de las tarjetas ya antes mencionadas. </li></p> 
+
 
 
 ***OBJETIVO GENERAL:***

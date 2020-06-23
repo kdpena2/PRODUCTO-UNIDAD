@@ -85,6 +85,29 @@ componentes para usar en nuestros diseños. </p>
 
 ***INSERTE IMAGEN AQUI***
 
+**HARDWARE MICROBIT**
+<p>La placa Micro:bit. Esta placa fue desarrollada bajo el amparo de la BBC con el objetivo de ser regalada a los niños y niñas de Gran Bretaña como punto de partida para su aprendizaje tecnológico. </p>
+
+***INSERTE IMAGEN AQUI***
+
+<p>En tan solo 4×5 cm2 podemos encontrar:</p>
+**Procesador**
+<p>El procesador BBC micro: bit es un nRF51822 nórdico,
+que contiene un ARM Cortex-M0 de un solo núcleo que se ejecuta a 16Mhz, con 16 KB de aleatorio</p>
+memoria de acceso (RAM) y 256 KB de memoria no volátil (NVM) para almacenamiento de programas.</p>
+**Conectores de entrada salida**
+<p>El BBC micro: bit tiene espacio para la expansión en forma de pines de entrada-salida ubicados en el borde inferior. Estos no son literalmente alfileres, sino tiras de cobre en ambos lados del BBC micro: placa de circuito impreso de bit; el término "pin" es un término técnico que no se refiere a las conexiones en sí, pero al "pin" del procesador al que están vinculadas las conexiones. Los cinco pasadores más grandes, a veces denominados almohadillas o anillos en referencia a su forma, son etiquetado en el frente de la placa: 0, 1, 2, 3V y GND. Los tres primeros son los BBC micro: bit pines de salida de entrada principales, mientras que los dos últimos proporcionan alimentación y tierra conexión para completar cualquier circuito que construyas. Cada uno de estos pines tiene un pequeño agujero en la parte superior, que le permite conectar rápidamente el hardware a la BBC micro: bit utilizando un clip de cocodrilo o conectores de banana. También son adecuados para usar con hilo conductor y, a veces, a través de pequeños tornillos conductores, como con el complemento tableros<p>
+
+*25 LEDs.*
+<p>Se pueden programar de forma independiente y permiten mostrar números, letras e imágenes. Si el texto o la cifra no caben en el display se desplazan de forma automática.
+Sensor de Luz. Los LEDs también tiene la posibilidad de ser usados como sensor de luz ambiente.<p>
+*Pulsadores.*
+<p>Existen 2 botones, etiquetados como A y B. Se puede detectar la pulsación independiente de cada uno de ellos así como la pulsación simultánea de ambos.<p>
+*Conectores.*
+<p>Situados en la parte inferior de la placa, dispone de 25 conexiones que permiten conectar otros sensores y actuadores. 5 de las conexiones (0,1,2 3v. y GND) se encuentran sobredimensionadas, para facilitar la conexión mediante pinzas de cocodrilo.<p>
+*Sensor de temperatura.*
+<p> Permite conocer a la micro:BIT la temperatura ambiente. Las unidades son los grados Celsius.<p>
+*Acelerómetro.*
 
 
 

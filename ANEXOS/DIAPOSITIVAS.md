@@ -1,1 +1,1 @@
-![Alt text](https://docs.google.com/presentation/d/1jhtzbF8VGB-qBux9_zEFS6cE0E9Pne6TDJ8riFvQwWg/edit?usp=sharing)](https://docs.google.com/presentation/d/1jhtzbF8VGB-qBux9_zEFS6cE0E9Pne6TDJ8riFvQwWg/edit?usp=sharing)
+![Alt text](https://docs.google.com/presentation/d/1kSOPTavHjgJf3T7BeYQsq1MA8eKNd4siz4bTX-B1m9o/edit?ts=5ef18aaa#slide=id.g89ea5f4cbc_2_10)](https://docs.google.com/presentation/d/1kSOPTavHjgJf3T7BeYQsq1MA8eKNd4siz4bTX-B1m9o/edit?ts=5ef18aaa#slide=id.g89ea5f4cbc_2_10)

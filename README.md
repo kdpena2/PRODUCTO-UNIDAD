@@ -13,6 +13,7 @@
 
 
 ***ESTADO DEL ARTE***
+
 **Educación de alta calidad y bajo costo con la Raspberry Pi**
 <p>Narasimha Saii Yamanoor, Srihari Yamanoor</p>
 <p>En la investigación, lo que se busca es describir los componentes de una Single Board Computadora (SBC) como es Raspberry Pi,  a mas de informar que esta tiene mucha rentabilidad si lo que se busca es aprender, de este modo se puede estudiar informática,  programación, computación, entre otras ramas tecnológicas.</p>
@@ -33,12 +34,25 @@
 
 <p>La presente investigación permite conocer de manera anticipada , que la plataforma Arduino IDE  es factible  de usar ya que se basa en el lenguaje C,  es así que los códigos desarrollados en el software de arduino pueden ser simplemente copiados en  la plataforma usada para la realización de los programas TinkerCad .Además en este estudio se evidencian los tiempos de ejecución de un arduino uno en la realización de operaciones matemáticas o en programas que incluyen números de punto flotante,por lo que así tendremos una noción muy básica  de cuanto tardará un programa en ejecutarse  ,al ser  comparado con otras placas de la familia arduino se establece que en el tiempo de ejecución es similar al arduino MEGA,sin embargo,el arduino DUE es mucho más rápido por lo que para ciertos proyectos es mucho más favorable utilizar este último. </p>
 
-
-
-
-
+**The Official BBC micro:bit® Guia oficial.**
+<p>La informática educativa tiene una larga y larga historia, comenzando con adopción de calculadoras mecánicas para ayudar con las clases de matemáticas hasta los primeros días de microcomputación con iniciativas como el BBC Computer Literacy Project en la década de 1980. Como el costo de las computadoras bajó y sus capacidades aumentaron, las escuelas de todo el mundo pasó rápidamente de una sola computadora compartida a salas enteras llenas de computadoras, integrándolas en lecciones de idiomas e historia a ingeniería y arte. Hoy en día, muchas casas tienen una computadora propia, o en algunos casos más de una. Mientras el acceso a las computadoras ha aumentado, realmente operarlas trae consigo una sensación de ser desconectado de su funcionamiento interno. BBC Micro, el microordenador de los años 80 diseñado por Acorn Computers y en el corazón del Proyecto de Alfabetización Informática de la BBC, cargado directamente en un lenguaje de programación basado en texto conocido como el Simbólico de uso múltiple para principiantes Código de instrucción (BASIC) y experimentación invitada; hoy, la mayoría de las computadoras cargar en una interfaz gráfica de usuario (GUI) que enfatiza el uso de programas escritos previamente sobre crearlo tu mismo. </p>
 
 ***MARCO TEÓRICO***
+**¿Qué es Raspberry Pi?**
+<p>Es un ordenador del tamaño de una tarjeta de crédito de bajo coste y tamaño reducido, creada con el objetivo de estimular la enseñanza de la informática en las escuelas, aunque no empezó su comercialización hasta el año 2012.</p>
+<p>Consta de una placa base sobre la que se monta un procesador, un chip gráfico y memoria RAM. Esta placa que soporta varios componentes necesarios en un ordenador común y es capaz de comportarse como tal.</p>
+ <p>Su concepto es el de un ordenador desnudo de todos los accesorios que se pueden eliminar sin que afecte al funcionamiento básico. </p>
+
+**¿Que es  Micro Bit?**
+<p>La micro:BIT es una pequeña tarjeta programable, con un costo asequible a cualquier bolsillo (unos 19€, ojo el cable va aparte). Aun cuando su tamaño es muy reducido, incorpora gran cantidad de sensores y actuadores lo que unido a que usa un software Open Source, hacen de la micro:BIT una plataforma ideal para introducirse en el mundo de la programación de robots.</p>
+
+<p>BBC micro: bit está diseñado para traer de vuelta los días de aprender a escribir su propio código en un plataforma de bajo costo y fácil de entender. Diseñado para sentarse en el corazón de un internacional programa de alfabetización informática inspirado directamente en la alfabetización informática original de la BBC Project, el BBC micro: bit es un microcontrolador asequible en el que puede ejecutar su propio programas para hacer todo, desde deletrear su nombre o jugar un juego para encender y apagar las luces o comunicarse por radio. Las escuelas de todo el mundo han comenzado a adoptar la BBC micro: bit en sus planes de estudio, pero es por no significa exclusivamente para uso educativo estructurado. La naturaleza fácilmente accesible del dispositivo. significa que puede usarse para enseñar conceptos de programación y computación a niños de cualquier edad, su robustez y su pequeño tamaño significan que es extremadamente portátil y adecuado para usar proyectos, y su sorprendente poder y flexibilidad significan que es poco probable que te encuentres a ti mismo restringido por sus capacidades incluso cuando se usa en el corazón de proyectos más complejos.</p>
+**¿Qué es Arduino?**
+
+<p>Es una plataforma de desarrollo que se basa  en una placa electrónica de hardware, una placa electrónica es una PCB “Printed Circuit Board” que en español  significa “Placa de Circuito Impreso” . Las PCBs  son superficies planas las cuales son  fabricadas de un material no conductor,está  está formada de varias  capas de material conductor. Una PCB constituye  la manera  más compacta y estable de construir un circuito electrónico.</p>
+
+*Arduino uno*
+<p>Arduino Uno es una placa electrónica basada en el microcontrolador ATmega328. Cuenta con 14 entradas/salidas digitales, de las cuales 6 se pueden utilizar como salidas PWM (Modulación por ancho de pulsos) y otras 6 son entradas analógicas. Además, incluye un resonador cerámico de 16 MHz, un conector USB, un conector de alimentación, una cabecera ICSP y un botón de reseteo. La placa incluye todo lo necesario para que el microcontrolador haga su trabajo, basta conectarla a un ordenador con un cable USB o a la corriente eléctrica a través de un transformador.</p>
 
 
 

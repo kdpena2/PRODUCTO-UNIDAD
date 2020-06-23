@@ -223,9 +223,9 @@ Sensor de Luz. Los LEDs también tiene la posibilidad de ser usados como sensor 
 <p>13. Hay un LED incorporado conectado al pin 13 digital. Cuando la clavija es de valor ALTO, el LED se enciende, cuando la clavija es BAJA, se apaga.
 -La placa Arduino Uno tiene 6 entradas analógicas, etiquetadas de A0 a A5, cada una de las cuales proporciona 10 bits de resolución (es decir, 1024 valores diferentes).</p>
 
-***SOFTWARE***
+***COMPONENTES DEL SOFTWARE***
 
-***SOFTWARE RASPBERRY PI***
+***Software Raspberry Pi***
 
 <p>Existen tres principales lenguajes de programación que se puede ejecutar en la Raspberry Pi:</p>
 
@@ -247,7 +247,7 @@ Sensor de Luz. Los LEDs también tiene la posibilidad de ser usados como sensor 
 <p>En esta parte se puede  editar el código, y se lo ejecuta dando clic en la flecha que se encuentra al lado derecho.</p>
 <p>En el caso de usar código compatible con la Raspberry, nos mostrará los pines de esta pudiéndose usar como simulador.</p>
 
-***SOFTWARE MICROBIT***
+***Software Micro bit***
 
 **Python**
 <p>Python es un lenguaje de programación creado por Guido van Rossum a principios de los años 90 cuyo nombre está inspirado en el grupo de cómicos ingleses “Monty Python”. Es un lenguaje similar a Perl, pero con una sintaxis muy limpia y que favorece un código legible. Se trata de un lenguaje interpretado o de script, con tipado dinámico, fuertemente tipado, multiplataforma y orientado a objetos.</p>
@@ -255,7 +255,7 @@ Sensor de Luz. Los LEDs también tiene la posibilidad de ser usados como sensor 
 **Java Script**
 <p>JavaScript es un lenguaje de los denominados lenguajes de scripting. Los scripts (script se traduce como guión, literalmente) son archivos de órdenes, programas por lo general simples. Es por esto que no podemos definir JavaScript como un lenguaje de programación en un sentido estricto, pero sin embargo sí nos permite crear páginas dinámicas, con algunos efectos realmente interesantes y que mejoren considerablemente su aspecto. Nos permite tener cierta interacción con el usuario de nuestras páginas, reconocer determinados eventos que se puedan producir y responder a éstos adecuadamente. Podemos, por ejemplo, añadir elementos con movimiento que recuerdan a las animaciones Flash. Incluso podemos crear algunos programas más complejos que manejen estructuras de datos.</p>
 
-***SOFTWARE ARDUINO***
+***Software Arduino***
 
 **Tinkercad Simulador**
 <p>Tinkercad es una herramienta online ofrecida por Autodesk. Se utiliza de forma gratuita y sólo requiere crearse una cuenta de usuario. De entre sus utilidades, probablemente la más conocida es la de diseñar piezas en 3D. Sin embargo, ofrece también una posibilidad realmente interesante y es la de montar, programar y simular circuitos con Arduino.Para ello, deberemos crearnos una cuenta de usuario y acceder. Seleccionando la opción “Circuits” podremos empezar a crear nuestros circuitos clicando sobre “Create new Circuit”.Esta plataforma usa el lenguaje propio de arduino para la elaboración de circuitos.</p>

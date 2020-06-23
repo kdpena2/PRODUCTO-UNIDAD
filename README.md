@@ -1,7 +1,8 @@
 # PRODUCTO-UNIDAD1
 ***PLACAS RASPBERRY, MICROBIT Y ARDUINO**
 
-
+****PROBLEMA****
+<p>¿Cuales son las principales funcionalidades de  las tarjetas de desarrollo Arduino, Raspberry y Microbit, sus componentes físicos y lógicos que hacen capaz su correcta operación?</p>
 
 ****OBJETIVO GENERAL:****
 <p>Investigar los usos y estructuras principales de las tarjetas de desarrollo Raspberry Pi, Arduino y Micro Bit  por medio de la abstracción de información, para así poder conocer los componentes físicos que estos tienen, y el software que emplean.</p>
@@ -14,12 +15,16 @@
 
 ****ESTADO DEL ARTE****
 
+***Raspberry Pi***
+
 ***Educación de alta calidad y bajo costo con la Raspberry Pi***
 <p>Narasimha Saii Yamanoor, Srihari Yamanoor</p>
 <p>En la investigación, lo que se busca es describir los componentes de una Single Board Computadora (SBC) como es Raspberry Pi,  a mas de informar que esta tiene mucha rentabilidad si lo que se busca es aprender, de este modo se puede estudiar informática,  programación, computación, entre otras ramas tecnológicas.</p>
 <p>Cada vez la raspberry ha ido evolucionando y obteniendo ciertas mejoras, es así que la primera generación de esta computadora tenía una ranura para tarjeta SD para permitir la instalación y uso de una versión adecuada de Linux.  La segunda y tercera generación de computadoras, en cambio tienen una ranura para tarjeta MicroSD.</p> 
 <p>En cuanto a su sus componentes del hardware, la computadora Raspberry Pi posee un diseño donde una sola placa transporta todos los circuitos esenciales, como la Unidad Central de Procesamiento (CPU), Unidad de procesamiento (GPU), y varias entradas, salidas y circuitos de procesamiento. La disponibilidad de funciones como los pines de entrada y salida de uso general (GPIO) hacen que la computadora sea apta para para conducir circuitos electrónicos y recopilar datos a través de diversos medios.Además se añaden accesorios como el sombrero (HAT), que no es otra cosa que “hardware que se coloca encima de la Pi”, este permite la adaptación del GPIO, o el uso de una placa de pruebas y  proporciona otras mejoras exclusivas que amplían la utilidad de Raspberry Pi Computer.</p>
 <p>Con la Raspberry se pueden crear distintas aplicaciones a partir de esta pequeña computadora , las cuales van desde simples y didácticas hasta grandes aplicaciones. Raspberry ofrece varias posibilidades de creación. Es así que se convirtió en la tercera computadora más vendida en la historia.</p>
+
+***Arduino***
 
 ***Una comparación experimental de plataformas compatibles con Arduino IDE para aplicaciones de control digital y adquisición de datos***
 
@@ -34,8 +39,12 @@
 
 <p>La presente investigación permite conocer de manera anticipada , que la plataforma Arduino IDE  es factible  de usar ya que se basa en el lenguaje C,  es así que los códigos desarrollados en el software de arduino pueden ser simplemente copiados en  la plataforma usada para la realización de los programas TinkerCad .Además en este estudio se evidencian los tiempos de ejecución de un arduino uno en la realización de operaciones matemáticas o en programas que incluyen números de punto flotante,por lo que así tendremos una noción muy básica  de cuanto tardará un programa en ejecutarse  ,al ser  comparado con otras placas de la familia arduino se establece que en el tiempo de ejecución es similar al arduino MEGA,sin embargo,el arduino DUE es mucho más rápido por lo que para ciertos proyectos es mucho más favorable utilizar este último. </p>
 
+***Micro bit***
+
 ***The Official BBC micro:bit® Guia oficial.***
 <p>La informática educativa tiene una larga y larga historia, comenzando con adopción de calculadoras mecánicas para ayudar con las clases de matemáticas hasta los primeros días de microcomputación con iniciativas como el BBC Computer Literacy Project en la década de 1980. Como el costo de las computadoras bajó y sus capacidades aumentaron, las escuelas de todo el mundo pasó rápidamente de una sola computadora compartida a salas enteras llenas de computadoras, integrándolas en lecciones de idiomas e historia a ingeniería y arte. Hoy en día, muchas casas tienen una computadora propia, o en algunos casos más de una. Mientras el acceso a las computadoras ha aumentado, realmente operarlas trae consigo una sensación de ser desconectado de su funcionamiento interno. BBC Micro, el microordenador de los años 80 diseñado por Acorn Computers y en el corazón del Proyecto de Alfabetización Informática de la BBC, cargado directamente en un lenguaje de programación basado en texto conocido como el Simbólico de uso múltiple para principiantes Código de instrucción (BASIC) y experimentación invitada; hoy, la mayoría de las computadoras cargar en una interfaz gráfica de usuario (GUI) que enfatiza el uso de programas escritos previamente sobre crearlo tu mismo. </p>
+<p>Fecha de la publicación:  2018 by John Wiley & Sons, Inc., Indianapolis, Indiana</p>
+</p>El manual de la tarjeta de desarrollo Microbit nos permite visualizar claramente todos los elementos estudiados en la investigación desarrollada, elementos como su hardware y software son especificados en este manual e incluso varios proyectos de guía que servirán al usuario para comprender claramente la funcionalidad de esta tarjeta de desarrollo.</p>
 
 ****MARCO TEÓRICO****
 ***¿Qué es Raspberry Pi?***
